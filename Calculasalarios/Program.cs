@@ -42,5 +42,20 @@ while(true){
         Console.Clear();
         Console.WriteLine("Digite o salário bruto: ");
         double salarioBruto = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine("\n\nDigite a quantidade de mesas trabalhados: ");
+        int mesesTrabalhados = Convert.ToInt32(Console.ReadLine());
+
+        if (mesesTrabalhados < 1 || mesesTrabalhados > 12)
+        {
+            Console.WriteLine("Número de meses inválido! Deve estar entre 1 e 12");
+            Console.ReadKey();
+            continue;
+
+        }
+
+        double decimoTerceiro = (salarioBruto / 12) * mesesTrabalhados;
+        Console.WriteLine($"O 13° salário proporcional é:R$ {decimoTerceiro:F2}");
+
     }// esta chave fecha o if do F2
 }
