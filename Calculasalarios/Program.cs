@@ -27,5 +27,20 @@ while(true){
         Console.WriteLine($"O saláro bruto é: R${salarioBruto:F2}");
         Console.WriteLine($"O saláro bruto é: R${salarioLiquido:F2}");
 
+        //armazena no vetor
+        if (indiceHistórico < historico.Length)
+        {
+            historico[indiceHistórico] = $"Salário Líquido: R$ {salarioLiquido: F2}";
+            indiceHistórico++;
+        }
+        Console.WriteLine("Pressione qualquer tecla para continuar...");
+        Console.ReadKey();
     } // esta chave fecha o if do F1
+
+    else if (tecla.Key != ConsoleKey.F2)
+    {
+        Console.Clear();
+        Console.WriteLine("Digite o salário bruto: ");
+        double salarioBruto = Convert.ToDouble(Console.ReadLine());
+    }// esta chave fecha o if do F2
 }

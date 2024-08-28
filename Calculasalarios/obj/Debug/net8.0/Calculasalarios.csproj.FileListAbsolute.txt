@@ -1,0 +1,15 @@
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\bin\Debug\net8.0\Calculasalarios.exe
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\bin\Debug\net8.0\Calculasalarios.deps.json
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\bin\Debug\net8.0\Calculasalarios.runtimeconfig.json
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\bin\Debug\net8.0\Calculasalarios.dll
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\bin\Debug\net8.0\Calculasalarios.pdb
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\obj\Debug\net8.0\Calculasalarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\obj\Debug\net8.0\Calculasalarios.AssemblyInfoInputs.cache
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\obj\Debug\net8.0\Calculasalarios.AssemblyInfo.cs
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\obj\Debug\net8.0\Calculasalarios.csproj.CoreCompileInputs.cache
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\obj\Debug\net8.0\Calculasalarios.sourcelink.json
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\obj\Debug\net8.0\Calculasalarios.dll
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\obj\Debug\net8.0\refint\Calculasalarios.dll
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\obj\Debug\net8.0\Calculasalarios.pdb
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\obj\Debug\net8.0\Calculasalarios.genruntimeconfig.cache
+C:\Users\24110395\source\repos\Calculasalarios\Calculasalarios\obj\Debug\net8.0\ref\Calculasalarios.dll
